@@ -1,0 +1,11 @@
+eno,pno,resp,dur
+e1,'p1','Manager','12'
+e2,'p1','Analyst','24'
+e2,'p2','Analyst','6'
+e3,'p3','Consultant','10'
+e3,'p4','Enginner','48'
+e4,'p2','Programmer','18'
+e5,'p2','Manager','24'
+e6,'p4','Manager','48'
+e7,'p3','Enginner','36'
+e8,'p3','Manager','40'
